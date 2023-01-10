@@ -1,0 +1,39 @@
+@font-face {
+    font-family:smile ;
+    src: url(violet_smile/Violet\ Smile.ttf);
+}
+body{
+    text-align: center;
+    background-color: #D4BBDD;
+}
+
+
+h1{
+    
+    font-family: smile;
+}
+.judul{
+    font-size:  80px;
+    
+}
+.text{
+    font-size: 60px;
+}
+
+
+
+h2{
+    font-size: 50px;
+
+}
+
+
+img{
+    max-width: 250px;
+    height: auto;
+}
+img:hover{
+    border-radius:300px ;
+    background-color: #FBEDE0;
+    border-width:auto ;
+}
