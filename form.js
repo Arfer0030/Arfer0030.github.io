@@ -20,7 +20,7 @@ var mau = confirm('kamu mau kukasih hadiah nggaa?')
                 alert('jangan kemana-mana yaa sayang')
                 alert('fuck with all the distance ')
                 alert('beacuse i know')
-                alert('in the end i have u, mwah')
+                alert('in the end i have u, mwah') }
     } else {
         alert('dih tai🖕')
         alert('tapi tetep kukasi')
